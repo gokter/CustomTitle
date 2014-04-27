@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomTitle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="button">Button</string>
+    <string name="this_is_the_content">This is the content</string>
+
+    <!-- <drawable name="nonoColor">#00000000</drawable> -->
+    <string name="clicked">Clicked</string>
+
+</resources>
